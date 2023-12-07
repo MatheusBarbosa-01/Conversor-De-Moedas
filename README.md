@@ -1,3 +1,5 @@
+![ScreenShot](https://github.com/MatheusBarbosa-01/Conversor-De-Moedas/assets/101056776/e1ef023d-9c8b-4fe6-88b6-d2740913d216)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
