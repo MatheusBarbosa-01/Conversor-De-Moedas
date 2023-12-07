@@ -19,6 +19,7 @@ function App() {
 
   return (
     <div className="App">
+      <p id='informacao'>Cotação de 07/12/2023</p>
       <div className='all'>
         <h1 className="page-title">
           Conversor de moedas

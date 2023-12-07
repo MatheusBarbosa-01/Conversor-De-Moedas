@@ -117,3 +117,14 @@ img {
   font-weight: bold;
   font-size: 20px;
 }
+
+#informacao{
+  text-align: left;
+  background: rgba(255,255,255,.3);
+  width: 10vw;
+  padding: 3px;
+  border-radius: 5px;
+  position: absolute;
+  bottom: 0;
+  left: 2;
+}
